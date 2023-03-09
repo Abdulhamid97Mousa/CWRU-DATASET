@@ -28,13 +28,6 @@ Each file contains -
 
     RPM- rpm during testing
 
-# Datasets_ABCD
-Please look at these tables before using the folder Dataset_ABCD
-
-![image](https://user-images.githubusercontent.com/80536675/194210055-72cb4088-7665-4c40-9110-a6c3255fe170.png)
-
-![image](https://user-images.githubusercontent.com/80536675/194209795-7ca1be0d-b3fe-419a-bde0-ed0d19eff059.png)
-
 
 
 
